@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# [![wtf](https://i.ibb.co/WfwbMxw/Untitled-Copy-Copy-Copy.png "CleanerPRO")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv) 
+# Cleaner PRO 🗑
 
-You can use the [editor on GitHub](https://github.com/ebankoff/CleanerPRO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/blue?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 📌 EN
 
-### Markdown
+**Cleaner PRO is a universal utility for cleaning Windows.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Easy to use
+* Lots of features
+* FREE
 
-```markdown
-Syntax highlighted code block
+[![Untitled](https://user-images.githubusercontent.com/80776324/167508776-64f37ffe-129c-454f-ac31-87bd5dc56f1d.png)](https://github.com/ebankoff/CleanerPRO/releases/download/1.0/Setup.exe)
 
-# Header 1
-## Header 2
-### Header 3
+# 📌 Donate for coffee
 
-- Bulleted
-- List
+`Qiwi`
 
-1. Numbered
-2. List
+[![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
-**Bold** and _Italic_ and `Code` text
+`Crypto wallets`
+* **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 
-[Link](url) and ![Image](src)
-```
+# 📌 RU
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Cleaner PRO - это универсальная утилита для очистки Windows.**
 
-### Jekyll Themes
+* Проста в использовании
+* Много функций
+* БЕСПЛАТНАЯ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebankoff/CleanerPRO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![Untitled](https://user-images.githubusercontent.com/80776324/167508776-64f37ffe-129c-454f-ac31-87bd5dc56f1d.png)](https://github.com/ebankoff/CleanerPRO/releases/download/1.0/Setup.exe)
 
-### Support or Contact
+# 📌 Автору на кофе
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`Qiwi`
+
+[![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
+
+`Крипта`
+* **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
